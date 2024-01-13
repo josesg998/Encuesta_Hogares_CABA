@@ -10,4 +10,4 @@ Mi idea fue realizar un análisis similar a partir de la medición del desempleo
 
 Tomando la misma filosofía del trabajo de Shikoda, decidí replicar este análisis para el último trimestre de 2021, y así actualizar el documento con los datos más recientes.
 
-Se puede acceder a la publicación del trabajo hecho para el [último trimestre de 2019](https://rpubs.com/josesg998/700448), así como el [realizado en 2022](https://rpubs.com/josesg998/926536)
+Se puede acceder a la publicación del trabajo hecho para el [último trimestre de 2019](https://rpubs.com/josesg998/1137841), así como el [realizado en 2022](https://rpubs.com/josesg998/1137842)
